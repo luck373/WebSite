@@ -2,7 +2,7 @@
     font-family: 'Josefin Sans', sans-serif;
     font-size: 70px;
 }
-.subtitle{
+.sub {
     font-family: 'Kiwi Maru', serif;
     font-size: 27px;
 }
@@ -15,7 +15,7 @@ section {
     background-size: cover;
 }
 body {
-    background-color: rgb(247, 240, 210);
+    background-color: rgb(247, 238, 201);
 }
 ul {
     list-style: none;
@@ -34,4 +34,13 @@ a {
 }
 .SNS a:hover {
     color: rgb(142, 148, 114);
+}
+.imgt {
+    border-radius: 30px;
+    padding: 5px;
+    border: 9px solid rgb(255, 255, 255);
+}
+.con {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 32px;
 }
