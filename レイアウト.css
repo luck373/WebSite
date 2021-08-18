@@ -1,0 +1,37 @@
+.title{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 70px;
+}
+.subtitle{
+    font-family: 'Kiwi Maru', serif;
+    font-size: 27px;
+}
+p {
+    font-size: 20px;
+    font-family: 'Kiwi Maru', serif;
+}
+section {
+    height: 100vh;
+    background-size: cover;
+}
+body {
+    background-color: rgb(247, 240, 210);
+}
+ul {
+    list-style: none;
+  }
+a {
+    text-decoration: none;
+}
+.SNS {
+    font-family: 'Josefin Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.SNS a {
+    font-size: 28px;
+    color: rgb(80, 80, 67);
+}
+.SNS a:hover {
+    color: rgb(142, 148, 114);
+}
