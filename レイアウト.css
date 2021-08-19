@@ -1,0 +1,70 @@
+.title{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 70px;
+}
+.sub {
+    font-family: 'Kiwi Maru', serif;
+    font-size: 27px;
+    color:black ;
+}
+p {
+    font-size: 22px;
+    font-family: 'Kiwi Maru', serif;
+}
+section {
+    height: 100vh;
+    background-size: cover;
+}
+body {
+    background-color: rgb(247, 238, 201);
+}
+ul {
+    list-style: none;
+  }
+a {
+    text-decoration: none;
+}
+.SNS {
+    font-family: 'Josefin Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.SNS a {
+    font-size: 28px;
+    color: rgb(80, 80, 67);
+}
+.SNS a:hover {
+    color: rgb(142, 148, 114);
+}
+.imgt {
+    border-radius: 30px;
+    padding: 5px;
+    border: 9px solid rgb(255, 255, 255);
+}
+.secttl {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 37px;
+}
+.secttl2 {
+    font-family: 'Kiwi Maru', serif;
+    font-size: 37px;
+}
+.DL {
+    font-family: 'Kiwi Maru', serif;
+    font-size: 25px;
+}
+a.DL {
+	display: block;
+	width: 160px;
+	padding: 0.4em 1.8em 0.5em 1.8em;
+	text-align: center;
+	text-decoration: none;
+	color: #000000;
+	border: 3px solid #ffffff;
+	border-radius: 40px;
+	transition: .4s;
+}
+a.DL:hover {
+	background: #ffffff;
+	color: rgb(0, 0, 0);
+}
